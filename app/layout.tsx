@@ -1,6 +1,5 @@
 import './globals.css';
 import { Navbar, Footer } from "@/components"
-import ContextProvider from '@/context';
 import { Metadata } from "next";
 
 
